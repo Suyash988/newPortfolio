@@ -8,7 +8,7 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Suyash's|Portfolio",
+  title: "Suyash's | Portfolio",
   description: "This is developed by Suyash Agnihotri Modern & Minimalist Next.js Portfolio",
   metadataBase: new URL('https://suyash988portfolio.vercel.app/'),
 };
