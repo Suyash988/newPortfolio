@@ -13,9 +13,6 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://suyash988portfolio.vercel.app/'),
   
 };
-<head>
-  <link rel="stylesheet" href="./favicon.ico" />
-</head>
 
 export default function RootLayout({
   children,
