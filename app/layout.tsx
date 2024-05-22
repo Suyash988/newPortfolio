@@ -11,7 +11,11 @@ export const metadata: Metadata = {
   title: "Suyash's | Portfolio",
   description: "This is developed by Suyash Agnihotri Modern & Minimalist Next.js Portfolio",
   metadataBase: new URL('https://suyash988portfolio.vercel.app/'),
+  
 };
+<head>
+  <link rel="stylesheet" href="./favicon.ico" />
+</head>
 
 export default function RootLayout({
   children,
