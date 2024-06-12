@@ -1,12 +1,4 @@
 
-
-// export const navItems = [
-//     { name: "About", link: "#about",  },
-//     { name: "Projects", link: "#projects" },
-//     { name: "Testimonials", link: "#testimonials" },
-//     { name: "Contact", link: "#contact" },
-//   ];
-  
   export const gridItems = [
     {
       id: 1,
@@ -169,7 +161,7 @@
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
+      title: "Full Stack Dev Intern",
       desc: "Assisted in the development of a web-based platform using Next.js, PrismaDb, Django enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
