@@ -2,7 +2,6 @@ import { projects } from '@/data'
 import React, { Suspense } from 'react'
 import { PinContainer } from './ui/3d-pin'
 import { FaLocationArrow } from 'react-icons/fa6'
-import { Loader } from '@react-three/drei'
 
 const RecentProjects = () => {
   return (

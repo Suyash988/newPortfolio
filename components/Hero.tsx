@@ -29,7 +29,7 @@ const Hero = () => {
               words='Transforming Concepts into Seamless User Experiences.'
             />
 
-            <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl mt-2">Hi, I&apos;m Suyash, a Web Developer & Data Scientist. </p>
+            <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl mt-2">Hi, I&apos;m Suyash, a Full Stack Developer. </p>
 
             <a href="#projects">
                 <MagicButton

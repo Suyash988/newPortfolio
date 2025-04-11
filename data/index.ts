@@ -66,19 +66,19 @@
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "SharpCareer Technologies Website",
+      des: "SharpCareer Technologies is an EdTech company that specializes in career guidance, project-based learning, and placement support.",
+      img: "/sharpcareer.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/Suyash988?tab=repositories",
+      link: "https://sharpcareer.in",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
+      title: "SharpCareer Digital Marketing Agency",
+      des: "SharpCareer Technologies is a leading digital marketing agency based in Noida, specializing in website development, e-commerce solutions, and mobile app developmen",
+      img: "/sharpcareertech.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/Suyash988?tab=repositories",
+      link: "https://sharpcareertech.com",
     },
     {
       id: 3,
